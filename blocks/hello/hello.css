@@ -1,0 +1,5 @@
+.hello{
+  padding: var(--spacing-l);
+  color: rgb(243, 37, 240);
+  border-bottom: 2px solid;
+}
